@@ -44,6 +44,18 @@
 <a href="https://fastapi.tiangolo.com" target="_blank">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </a> 
+<a href="https://www.postgresql.org" target="_blank">
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+<a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://sqlite.org" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
@@ -56,6 +68,11 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </a>
+
+
+
+
+
 
 
 
